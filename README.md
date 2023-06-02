@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Dani Sanz.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate on amazing projects.
-- 📫 You can reach me in danisanzdev.com.
+👋 Hi, I’m Dani Sanz.
+
 
 <!---
 daniDNZ/daniDNZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
